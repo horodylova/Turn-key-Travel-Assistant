@@ -52,8 +52,3 @@ Check out the project in action!
 - Custom Flight Price Analyzer
 - Python
 
-
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/your-username/turn-key-travel-assistant](https://github.com/your-username/turn-key-travel-assistant)
