@@ -20,6 +20,26 @@ Travel planning often involves:
 
 Turn-key Travel Assistant eliminates these pain points by creating a complete, randomized travel itinerary tailored to individual preferences.
 
+## Project Structure and Workflow
+
+![Project Structure](./public/screenshot1.png)
+*Project structure showing the team organization, agent roles, and task assignments*
+
+## Agent Roles and Tasks
+
+![Agent Roles](./public/screenshot2.png)
+*Detailed view of agent roles, goals, and backstories that power the travel planning process*
+
+## Implementation Results
+
+### Trip Planning Output
+![Trip Planning Results](./public/screenshot3.png)
+*Example of a generated 7-day trip plan for Nice, France, including accommodations and daily activities*
+
+### Flight Advisor Output
+![Flight Details](./public/screenshot4.png)
+*Flight details showing route information, price ranges, and optimal travel dates*
+
 ## Technical Architecture
 
 The project is implemented using the CrewAI platform, featuring three primary agents:
